@@ -1,0 +1,100 @@
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ka'", "response": "    return [p for p in pokemon_list if 'ka' in p['name']]\n\n# Arguments:\n# substring: 'ka'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "List the first 7 Pok\u00e9mon", "response": "    return pokemon_list[:7]\n\n# Arguments:\n# count: 7"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'on'", "response": "    return [p for p in pokemon_list if p['name'].endswith('on')]\n\n# Arguments:\n# suffix: 'on'"}
+{"prompt": "List the first 17 Pok\u00e9mon", "response": "    return pokemon_list[:17]\n\n# Arguments:\n# count: 17"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'n'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('n')])\n\n# Arguments:\n# letter: 'n'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 5 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 5])\n\n# Arguments:\n# length: 5"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 8 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 8])\n\n# Arguments:\n# length: 8"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'lu'", "response": "    return [p for p in pokemon_list if 'lu' in p['name']]\n\n# Arguments:\n# substring: 'lu'"}
+{"prompt": "List the first 7 Pok\u00e9mon", "response": "    return pokemon_list[:7]\n\n# Arguments:\n# count: 7"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "List the first 6 Pok\u00e9mon", "response": "    return pokemon_list[:6]\n\n# Arguments:\n# count: 6"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 10 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 10])\n\n# Arguments:\n# length: 10"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'lit'", "response": "    return [p for p in pokemon_list if p['name'].endswith('lit')]\n\n# Arguments:\n# suffix: 'lit'"}
+{"prompt": "List the first 19 Pok\u00e9mon", "response": "    return pokemon_list[:19]\n\n# Arguments:\n# count: 19"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'bat'", "response": "    return [p for p in pokemon_list if p['name'].endswith('bat')]\n\n# Arguments:\n# suffix: 'bat'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "List the first 17 Pok\u00e9mon", "response": "    return pokemon_list[:17]\n\n# Arguments:\n# count: 17"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 10 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 10])\n\n# Arguments:\n# length: 10"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'p'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('p')])\n\n# Arguments:\n# letter: 'p'"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'j'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('j')])\n\n# Arguments:\n# letter: 'j'"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ka'", "response": "    return [p for p in pokemon_list if 'ka' in p['name']]\n\n# Arguments:\n# substring: 'ka'"}
+{"prompt": "List the first 9 Pok\u00e9mon", "response": "    return pokemon_list[:9]\n\n# Arguments:\n# count: 9"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'n'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('n')])\n\n# Arguments:\n# letter: 'n'"}
+{"prompt": "List the first 10 Pok\u00e9mon", "response": "    return pokemon_list[:10]\n\n# Arguments:\n# count: 10"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'lu'", "response": "    return [p for p in pokemon_list if 'lu' in p['name']]\n\n# Arguments:\n# substring: 'lu'"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'u'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('u')])\n\n# Arguments:\n# letter: 'u'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 5 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 5])\n\n# Arguments:\n# length: 5"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'k'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('k')])\n\n# Arguments:\n# letter: 'k'"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'lit'", "response": "    return [p for p in pokemon_list if p['name'].endswith('lit')]\n\n# Arguments:\n# suffix: 'lit'"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ka'", "response": "    return [p for p in pokemon_list if 'ka' in p['name']]\n\n# Arguments:\n# substring: 'ka'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 5 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 5])\n\n# Arguments:\n# length: 5"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 6 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 6])\n\n# Arguments:\n# length: 6"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'x'", "response": "    return [p for p in pokemon_list if 'x' in p['name']]\n\n# Arguments:\n# substring: 'x'"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ka'", "response": "    return [p for p in pokemon_list if 'ka' in p['name']]\n\n# Arguments:\n# substring: 'ka'"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'o'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('o')])\n\n# Arguments:\n# letter: 'o'"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'w'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('w')])\n\n# Arguments:\n# letter: 'w'"}
+{"prompt": "List the first 13 Pok\u00e9mon", "response": "    return pokemon_list[:13]\n\n# Arguments:\n# count: 13"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 7 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 7])\n\n# Arguments:\n# length: 7"}
+{"prompt": "List the first 7 Pok\u00e9mon", "response": "    return pokemon_list[:7]\n\n# Arguments:\n# count: 7"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'o'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('o')])\n\n# Arguments:\n# letter: 'o'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 10 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 10])\n\n# Arguments:\n# length: 10"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 7 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 7])\n\n# Arguments:\n# length: 7"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'o'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('o')])\n\n# Arguments:\n# letter: 'o'"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'q'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('q')])\n\n# Arguments:\n# letter: 'q'"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'j'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('j')])\n\n# Arguments:\n# letter: 'j'"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ra'", "response": "    return [p for p in pokemon_list if 'ra' in p['name']]\n\n# Arguments:\n# substring: 'ra'"}
+{"prompt": "List the first 14 Pok\u00e9mon", "response": "    return pokemon_list[:14]\n\n# Arguments:\n# count: 14"}
+{"prompt": "List the first 13 Pok\u00e9mon", "response": "    return pokemon_list[:13]\n\n# Arguments:\n# count: 13"}
+{"prompt": "List the first 20 Pok\u00e9mon", "response": "    return pokemon_list[:20]\n\n# Arguments:\n# count: 20"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'e'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('e')])\n\n# Arguments:\n# letter: 'e'"}
+{"prompt": "List the first 10 Pok\u00e9mon", "response": "    return pokemon_list[:10]\n\n# Arguments:\n# count: 10"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'h'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('h')])\n\n# Arguments:\n# letter: 'h'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 5 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 5])\n\n# Arguments:\n# length: 5"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ra'", "response": "    return [p for p in pokemon_list if 'ra' in p['name']]\n\n# Arguments:\n# substring: 'ra'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'h'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('h')])\n\n# Arguments:\n# letter: 'h'"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ra'", "response": "    return [p for p in pokemon_list if 'ra' in p['name']]\n\n# Arguments:\n# substring: 'ra'"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'saur'", "response": "    return [p for p in pokemon_list if p['name'].endswith('saur')]\n\n# Arguments:\n# suffix: 'saur'"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'on'", "response": "    return [p for p in pokemon_list if p['name'].endswith('on')]\n\n# Arguments:\n# suffix: 'on'"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'lu'", "response": "    return [p for p in pokemon_list if 'lu' in p['name']]\n\n# Arguments:\n# substring: 'lu'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 6 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 6])\n\n# Arguments:\n# length: 6"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'lu'", "response": "    return [p for p in pokemon_list if 'lu' in p['name']]\n\n# Arguments:\n# substring: 'lu'"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ka'", "response": "    return [p for p in pokemon_list if 'ka' in p['name']]\n\n# Arguments:\n# substring: 'ka'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 5 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 5])\n\n# Arguments:\n# length: 5"}
+{"prompt": "List the first 7 Pok\u00e9mon", "response": "    return pokemon_list[:7]\n\n# Arguments:\n# count: 7"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'o'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('o')])\n\n# Arguments:\n# letter: 'o'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 7 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 7])\n\n# Arguments:\n# length: 7"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'j'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('j')])\n\n# Arguments:\n# letter: 'j'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 10 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 10])\n\n# Arguments:\n# length: 10"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'a'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('a')])\n\n# Arguments:\n# letter: 'a'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "List the first 20 Pok\u00e9mon", "response": "    return pokemon_list[:20]\n\n# Arguments:\n# count: 20"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'on'", "response": "    return [p for p in pokemon_list if p['name'].endswith('on')]\n\n# Arguments:\n# suffix: 'on'"}
+{"prompt": "List the first 17 Pok\u00e9mon", "response": "    return pokemon_list[:17]\n\n# Arguments:\n# count: 17"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ka'", "response": "    return [p for p in pokemon_list if 'ka' in p['name']]\n\n# Arguments:\n# substring: 'ka'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 8 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 8])\n\n# Arguments:\n# length: 8"}
+{"prompt": "List all Pok\u00e9mon whose names end with 'lit'", "response": "    return [p for p in pokemon_list if p['name'].endswith('lit')]\n\n# Arguments:\n# suffix: 'lit'"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 5 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 5])\n\n# Arguments:\n# length: 5"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "How many Pok\u00e9mon have names that are exactly 6 characters long?", "response": "    return len([p for p in pokemon_list if len(p['name']) == 6])\n\n# Arguments:\n# length: 6"}
+{"prompt": "List the first 16 Pok\u00e9mon", "response": "    return pokemon_list[:16]\n\n# Arguments:\n# count: 16"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'ra'", "response": "    return [p for p in pokemon_list if 'ra' in p['name']]\n\n# Arguments:\n# substring: 'ra'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
+{"prompt": "Return a list of Pok\u00e9mon whose names contain 'z'", "response": "    return [p for p in pokemon_list if 'z' in p['name']]\n\n# Arguments:\n# substring: 'z'"}
+{"prompt": "How many Pok\u00e9mon have names that start with 'f'?", "response": "    return len([p for p in pokemon_list if p['name'].startswith('f')])\n\n# Arguments:\n# letter: 'f'"}
+{"prompt": "How many Pok\u00e9mon are there in total?", "response": "    return len(pokemon_list)\n\n# Arguments:"}
